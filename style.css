@@ -4,6 +4,7 @@
   /*========= Colors =========*/
   --body-bg-color: #FAF7FD;
   --purple: #BB99DD;
+  --btn-hover: #BB99DD;
 
   /*============== Font and typograhy ===============*/
   --body-font: 'Poppins', sans-serif;
@@ -71,6 +72,11 @@ main .container_img {
   margin-bottom: 33px;
 }
 
+.instagram-user:hover {
+  transition: ease 0.5s;
+  transform: scale(1.03);
+}
+
 .links {
   margin-bottom: 68px;
 }
@@ -87,6 +93,13 @@ main .container_img {
   margin: 16px 0px 0px 0px;
 }
 
+.links_item a:hover {
+  color: var(--body-bg-color);
+  background-color: var(--btn-hover);
+  transition: ease 0.5s;
+  transform: scale(1.03);
+}
+
 .social_media a {
   margin: 0px 29px 0px 0px;
 }
@@ -95,4 +108,11 @@ main .container_img {
   height: 24px;
   width: 24px;
 }
+
+.social-media_btns img:hover {
+  transition: ease 0.1s;
+  transform: scale(1.10);
+}
+
+
 
