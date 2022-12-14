@@ -113,3 +113,10 @@ main .container_img {
   transition: ease 0.1s;
   transform: scale(1.10);
 }
+
+@media screen and (max-width: 500px) {
+  main {
+    max-height: 100%;
+    overflow: hidden;
+  }
+}
