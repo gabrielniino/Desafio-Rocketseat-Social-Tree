@@ -1,6 +1,6 @@
 # Desafio-Rocketseat-Social-Tree
 
-## Desenvolvimento de conhecimento em HTML5 e CSS3 por Gabriel Nino.
+## Desenvolvimento de conhecimento em HTML5 e CSS3 por [Gabriel Nino](https://www.linkedin.com/in/gabriel-gon%C3%A7alves-90759920a/).
 
 **Aqui desenvolvo um projeto onde trabalho com estilização em CSS**.
 
